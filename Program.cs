@@ -19,7 +19,6 @@ int olength = output.Count;
 int memory = 0;
 int index = 0;
 int count = 0;
-int print = 0;
 int right = 0;
 int i = 0;
 while (i < length) {
