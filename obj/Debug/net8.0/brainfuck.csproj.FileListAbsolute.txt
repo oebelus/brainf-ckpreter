@@ -1,0 +1,14 @@
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\bin\Debug\net8.0\brainfuck.exe
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\bin\Debug\net8.0\brainfuck.deps.json
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\bin\Debug\net8.0\brainfuck.runtimeconfig.json
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\bin\Debug\net8.0\brainfuck.dll
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\bin\Debug\net8.0\brainfuck.pdb
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.AssemblyInfoInputs.cache
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.AssemblyInfo.cs
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.csproj.CoreCompileInputs.cache
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.dll
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\refint\brainfuck.dll
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.pdb
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.genruntimeconfig.cache
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\ref\brainfuck.dll
