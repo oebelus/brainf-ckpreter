@@ -12,3 +12,4 @@ C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\refint\brainfuck.d
 C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.pdb
 C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.genruntimeconfig.cache
 C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\ref\brainfuck.dll
+C:\Users\Imane\OneDrive\Desktop\CS\brainfuck\obj\Debug\net8.0\brainfuck.sourcelink.json

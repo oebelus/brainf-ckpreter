@@ -47,8 +47,7 @@ while (i < length) {
             break;
         case ']':
             right = i;
-            if (output[memory] == 0) i = right;
-            else i = index;
+            if (output[memory] != 0) i = index;
             break;
     }
     i++;
