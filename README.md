@@ -18,5 +18,6 @@ It will output the following result and prompt you to write another code:
 ```
 Hello World!
 Tape: [0][0][72][100][87][33][10]
+Write your BrainF*ck code here:
 ```
 You can exit the program in the same way you exit Vim - You can't -Just Kidding- -, type `:q!`; 
