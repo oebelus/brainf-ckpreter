@@ -8,17 +8,17 @@ A simple Brainfuck interpreter that asks you to input your Brainfuck code in the
 # How to use it?
 Run the program, then it will ask you to enter your code: 
 ```
-Write your BrainF*ck code here:
+>> Write your BrainF*ck code here:
 ```
 Let's attempt with `Hello, World!`: 
 ```
->> ++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
+++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
 ```
 It will output the following result and prompt you to write another code: 
 ```
-Hello World!
-Tape: [0][0][72][100][87][33][10]
-Write your BrainF*ck code here:
->>
+>> Hello World!
+>> Tape: [0][0][72][100][87][33][10]
+>> Write your BrainF*ck code here:
+
 ```
 You can exit the program in the same way you exit Vim - You can't -Just Kidding- -, type `:q!`; 
