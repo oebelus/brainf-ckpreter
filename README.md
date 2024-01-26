@@ -4,7 +4,7 @@
 A simple Brainfuck interpreter that asks you to input your Brainfuck code in the console and to output the result.  
 # Features
 - It supports all the standard Brainfuck commands, including nested brackets (I can't help BUT mention this as I spent a long time ATTEMPTING TO IMPLEMENT THEM XD)
-- It prints the output if there is the '.' command and also the tape after interpreting the code (The initial tape size is 1)
+- It prints the output and also the tape after interpreting the code (The initial tape size is 1)
 # How to use it?
 Run the program, then it will ask you to enter your code: 
 ```
