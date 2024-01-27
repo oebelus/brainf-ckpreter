@@ -73,3 +73,43 @@ while (input != ":q!") {
     Console.Write("Tape: "); foreach (int el in output) Console.Write($"[{el}]");
     Console.WriteLine();
 }
+
+/* The code belows keeps track of the brackets count to find the indices of the matching brackets. */
+
+/*
+ *
+string input = "++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.";
+
+int length = input.Length; 
+Dictionary <int, int> brackets = [];
+int bracketCount = 0;
+
+int j = 0;
+while (j < length) {
+    switch(input[j]) {
+        case '[':
+            if (!brackets.ContainsKey(j)) brackets.Add(j, -1);
+            int k = j + 1;
+            while (k < length) {
+                if (bracketCount == 0 && input[k] == ']')  {
+                    if (!brackets.ContainsKey(j)) brackets.Add(j, -1);
+                    else {
+                        brackets[j] = k;
+                        brackets[k] = j;
+                    }
+                    break;
+                }
+                else {
+                    if (input[k] == ']') bracketCount--;
+                    else if (input[k] == '[') bracketCount++;
+                }
+                k++;
+            }
+            break;
+        }
+    j++;
+}
+
+foreach (var (key, val) in brackets) Console.WriteLine($"{key}: {val}");
+*
+*/
